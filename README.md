@@ -1,5 +1,7 @@
 Gas-Leak-Detection-Alarm-System-using-MQ2-Gas-Sensor-Arduino
+
 Use the diagram to connect the components accordingly
+
 Copy the code and upload it to the arduino
 
 - Overview
